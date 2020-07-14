@@ -1,0 +1,1 @@
+RIDE_DETAILS_FETCHED_SUCCESS = 'Ride details are fetched successfully'
